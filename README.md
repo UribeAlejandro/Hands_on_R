@@ -17,7 +17,7 @@ Java HotSpot(TM) 64-Bit Server VM (build 15.0.1+9-18, mixed mode, sharing)
 Clone this repository, go to the directory you have cloned it and run it by typing in your terminal
 
 ````bash
-javac src/main.py
+javac src/main.java
 java  src/main.class
 ````
 
